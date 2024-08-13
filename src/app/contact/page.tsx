@@ -13,8 +13,8 @@ const ContactPage = () => {
   return (
     <>
       <Breadcrumb
-        pageName="Contact Page"
-        description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. In varius eros eget sapien consectetur ultrices. Ut quis dapibus libero."
+        pageName="Get in Touch with Us"
+        description="We are here to assist you with all your SAP needs. Whether you have questions about our services, need support, or want to discuss a potential project, our team is ready to help."
       />
 
       <Contact />
